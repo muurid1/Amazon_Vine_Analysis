@@ -85,10 +85,14 @@ POSTGRESQL
 
 <img width="1390" alt="Total_5_Reviews" src="https://user-images.githubusercontent.com/107282754/196501251-1edf854f-5374-49af-a400-fd629caf48f4.png">
 
-Total Vine and Non-Vine reviews: 38010
-5 stars Vine Reviews: 65
-5 stars Non-Vine reviews: 20612
-Percentage of Vine reviews with 5 stars: 38.2%
-Percentage pf Non-Vine reviews with 5 stars: 54.5%
+• Total Vine and Non-Vine reviews: 38010
+
+• 5 stars Vine Reviews: 65
+
+• 5 stars Non-Vine reviews: 20612
+
+• Percentage of Vine reviews with 5 stars: 38.2%
+
+• Percentage pf Non-Vine reviews with 5 stars: 54.5%
 
 ## Summary
