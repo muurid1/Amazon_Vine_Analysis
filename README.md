@@ -21,7 +21,9 @@ We will have access to approximatively 50 datasets and each one of them contains
 
 • Pandas
 
-Amazon Web Services
+#### Data Source
+
+• Amazon Review Dataset
 
 ## Results
 
@@ -48,7 +50,7 @@ Amazon Web Services
 
 <img width="958" alt="Vine_Table_DataFrame" src="https://user-images.githubusercontent.com/107282754/196068361-d15b7266-7de2-4f2a-ade0-c214de82ea73.png">
 
-POSTGRESQL
+RDS POSTGRESQL Database on the Amnazon Web Services 
 
 <img width="605" alt="RDS_PostgrSQL(1)" src="https://user-images.githubusercontent.com/107282754/196068414-39d4cb87-8fc6-457e-83ee-a65c7cc6bbfe.png">
 
