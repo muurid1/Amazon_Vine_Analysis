@@ -51,7 +51,7 @@ We will have access to approximatively 50 datasets and each one of them contains
 
 <img width="958" alt="Vine_Table_DataFrame" src="https://user-images.githubusercontent.com/107282754/196068361-d15b7266-7de2-4f2a-ade0-c214de82ea73.png">
 
-RDS POSTGRESQL Database on the Amnazon Web Services 
+Vine Analysis using SQL pgAdmin
 
 <img width="605" alt="RDS_PostgrSQL(1)" src="https://user-images.githubusercontent.com/107282754/196068414-39d4cb87-8fc6-457e-83ee-a65c7cc6bbfe.png">
 
@@ -99,3 +99,6 @@ RDS POSTGRESQL Database on the Amnazon Web Services
 • Percentage pf Non-Vine reviews with 5 stars: 54.5%
 
 ## Summary
+
+After comparing the Vine and the Non-Vine reviews, we found out that there is not a bias for reviews in the Vine program. As seen in the images above, 38.2% of Vine members reviews were 5-star and 54.5% of Non-Vine reviews were 5-star. The number of Vine reviews is 65 compare to 20612 for the Non-Vine reviews.
+We could analyze more summary statistics such as the median, mean and mode of the reviews. 
