@@ -45,6 +45,7 @@ We will have access to approximatively 50 datasets and each one of them contains
 
 ##### Review_ID_table_DataFrame
 
+<img width="1253" alt="Review_ID_Table" src="https://user-images.githubusercontent.com/107282754/196571754-73d47fb9-5844-44e6-8da3-b8dc2ff0c30a.png">
 
 ##### Vine_Table_DataFrame
 
